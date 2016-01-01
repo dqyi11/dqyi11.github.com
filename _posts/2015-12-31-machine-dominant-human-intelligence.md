@@ -53,13 +53,5 @@ If the Google map knew that I wanted to visit a region instead of a human-labele
 Therefore, that the planning or the decision making would not be dominant by a machine intelligence could be avoided by adding a human level above the planner level, .
 The import of this human level would increase the fault tolerance.
 
-
-
-
- 
-
-
-
-
-
- 
+There are going to be more and more applications that humans' decision makings reply on machines' decisions, and even are dominated by machines' decisions.
+But I believe the ultimate goal of human-machine interaction is having human-dominant machine intelligence.
